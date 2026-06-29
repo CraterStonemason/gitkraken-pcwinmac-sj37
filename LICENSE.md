@@ -1,4 +1,4 @@
-# 
+# 轻量 GitKraken 工作流 Mac OS版 | 精英 GitKraken 工作流 PC Windows版。集成 卷管理 和 代码导航，跨平台性能最大化。
 
 
 
